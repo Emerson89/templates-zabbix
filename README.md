@@ -19,7 +19,7 @@ Ir em configurações, templates e clique em importar
 
 
 
-Clique em Choose File e escolha o template-elasticsearch.xml
+Clique em Choose File e escolha o template-elb.xml
 
 
 
